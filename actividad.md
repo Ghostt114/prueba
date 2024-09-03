@@ -1,8 +1,9 @@
-### ¿Qué es Git?
+# Cuestionario
+## ¿Qué es Git?
 
 Git es un sistema de control de versiones distribuido que permite a los desarrolladores rastrear los cambios en el código fuente a lo largo del tiempo. Fue creado por Linus Torvalds en 2005 para gestionar el desarrollo del núcleo de Linux. Git permite a múltiples desarrolladores trabajar en paralelo y fusionar sus cambios de manera eficiente.
 
-### ¿Para qué sirve?
+## ¿Para qué sirve?
 
 Git sirve para:
 
@@ -11,7 +12,7 @@ Git sirve para:
 - **Ramas y fusiones:** Crear ramas para desarrollar nuevas características o corregir errores sin afectar el código principal, y luego fusionar esas ramas cuando están listas.
 - **Reversión de cambios:** Deshacer cambios no deseados y volver a versiones anteriores del código.
 
-### ¿Qué aporta GitHub al desarrollo de software?
+## ¿Qué aporta GitHub al desarrollo de software?
 
 GitHub es una plataforma de alojamiento de código basada en Git que ofrece:
 
@@ -21,7 +22,7 @@ GitHub es una plataforma de alojamiento de código basada en Git que ofrece:
 - **Documentación:** Permite mantener documentación del proyecto y otros recursos en el repositorio.
 - **Visibilidad y control:** Ofrece herramientas para gestionar el acceso y los permisos de los colaboradores.
 
-### ¿Para qué mostrar el modelado de mi proyecto?
+## ¿Para qué mostrar el modelado de mi proyecto?
 
 Mostrar el modelado de tu proyecto es útil para:
 
