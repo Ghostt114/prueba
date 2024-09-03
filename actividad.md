@@ -3,7 +3,7 @@
 
 Git es una herramienta para controlar versiones de código. Permite ver qué cambios se hiceron, quién los hizo y cuándo. También regresar a versiones anteriores si algo sale mal.
 
-[Este es texto alt, alternativo.](https://blog.desafiolatam.com/wp-content/uploads/2023/04/Diferencias-entre-Git-y-Github.png) "Esta es una imagen de muestra.")
+![Este es texto alt, alternativo.](https://blog.desafiolatam.com/wp-content/uploads/2023/04/Diferencias-entre-Git-y-Github.png "Esta es una imagen de muestra.")
 
 
 ## *¿Para qué sirve Git?*
