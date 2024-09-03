@@ -1,32 +1,30 @@
 # Cuestionario
-## ¿Qué es Git?
+## *¿Qué es Git?*
 
-Git es un sistema de control de versiones distribuido que permite a los desarrolladores rastrear los cambios en el código fuente a lo largo del tiempo. Fue creado por Linus Torvalds en 2005 para gestionar el desarrollo del núcleo de Linux. Git permite a múltiples desarrolladores trabajar en paralelo y fusionar sus cambios de manera eficiente.
+Git es una herramienta para controlar versiones de código. Permite ver qué cambios se hiceron, quién los hizo y cuándo. También regresar a versiones anteriores si algo sale mal.
 
-## ¿Para qué sirve?
+[Este es texto alt, alternativo.]([https://concepto.de/wp-content/uploads/2022/05/meme-caracteristicas-e1653581804846.jpg](https://blog.desafiolatam.com/wp-content/uploads/2023/04/Diferencias-entre-Git-y-Github.png) "Esta es una imagen de muestra.")
 
-Git sirve para:
 
-- **Control de versiones:** Rastrear y gestionar los cambios en el código fuente a lo largo del tiempo.
-- **Colaboración:** Permitir que varios desarrolladores trabajen en el mismo proyecto simultáneamente sin interferir con el trabajo de los demás.
-- **Ramas y fusiones:** Crear ramas para desarrollar nuevas características o corregir errores sin afectar el código principal, y luego fusionar esas ramas cuando están listas.
-- **Reversión de cambios:** Deshacer cambios no deseados y volver a versiones anteriores del código.
+## *¿Para qué sirve Git?*
 
-## ¿Qué aporta GitHub al desarrollo de software?
+* **Registrar cambios**: Guarda todas las modificaciones en el código.
+* **Colaborar**: Permite a varios desarrolladores trabajar juntos.
+* **Gestionar versiones**: Regresa a versiones anteriores si es necesario.
+* **Crear ramas**: Trabaja en partes del proyecto por separado.
 
-GitHub es una plataforma de alojamiento de código basada en Git que ofrece:
+## *¿Qué aporta GitHub al desarrollo de software?*
 
-- **Repositorio remoto:** Permite almacenar y compartir el código en un servidor accesible desde cualquier lugar.
-- **Colaboración:** Facilita la colaboración entre desarrolladores mediante pull requests, comentarios y revisiones de código.
-- **Integraciones:** Ofrece herramientas y servicios adicionales como integración continua, despliegue automático y análisis de código.
-- **Documentación:** Permite mantener documentación del proyecto y otros recursos en el repositorio.
-- **Visibilidad y control:** Ofrece herramientas para gestionar el acceso y los permisos de los colaboradores.
+* **Almacenamiento en la nube**: Guarda el código en línea.
+* **Interfaz web**: Facilita el uso de Git con una página amigable.
+* **Colaboración**: Mejora la colaboración y revisión del código.
+* **Integración**: Se conecta con otras herramientas útiles.
+* **Documentación**: Ofrece herramientas para gestionar problemas y tareas.
 
-## ¿Para qué mostrar el modelado de mi proyecto?
+## *¿Para qué mostrar el modelado de mi proyecto?*
 
-Mostrar el modelado de tu proyecto es útil para:
-
-- **Comunicación:** Facilita la comprensión del diseño y la estructura del proyecto entre todos los miembros del equipo y las partes interesadas.
-- **Planificación:** Ayuda a planificar y definir la arquitectura del proyecto antes de comenzar el desarrollo.
-- **Documentación:** Proporciona una referencia visual y técnica sobre cómo está organizado el sistema, lo que puede ser útil para la resolución de problemas y el mantenimiento futuro.
-- **Evaluación:** Permite evaluar y mejorar el diseño del proyecto antes de implementarlo, lo que puede llevar a una arquitectura más eficiente y menos propensa a errores.
+* **Comunicación**: Aclara el diseño del proyecto para todos.
+* **Planificación**: Identifica problemas y mejora el diseño desde el principio.
+* **Documentación**: Proporciona una guía visual del proyecto.
+* **Revisión**: Facilita la retroalimentación de otros.
+* **Mantenimiento**: Ayuda a mantener y actualizar el proyecto con claridad.
