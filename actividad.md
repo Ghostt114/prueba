@@ -7,14 +7,14 @@ Git es una herramienta para controlar versiones de código. Permite ver qué cam
 
 
 ## *¿Para qué sirve Git?*
-### Git sirve para lo siguiente:
+### Con Git somos capaces de:
 * **Registrar cambios**: Guarda todas las modificaciones en el código.
 * **Colaborar**: Permite a varios desarrolladores trabajar juntos.
 * **Gestionar versiones**: Regresa a versiones anteriores si es necesario.
 * **Crear ramas**: Trabaja en partes del proyecto por separado.
 
 ## *¿Qué aporta GitHub al desarrollo de software?*
-
+### Al momento de trabajar brinda las siguientes funciones:
 * **Almacenamiento en la nube**: Guarda el código en línea.
 * **Interfaz web**: Facilita el uso de Git con una página amigable.
 * **Colaboración**: Mejora la colaboración y revisión del código.
@@ -22,8 +22,8 @@ Git es una herramienta para controlar versiones de código. Permite ver qué cam
 * **Documentación**: Ofrece herramientas para gestionar problemas y tareas.
 
 ## *¿Para qué mostrar el modelado de mi proyecto?*
-
-* **Comunicación**: Aclara el diseño del proyecto para todos.
+### Describir y organizar los diferentes aspectos de un proyecto de manera clara y estructurada contribuyen la:
+* **Comunicación**: Aclara el diseño del proyecto.
 * **Planificación**: Identifica problemas y mejora el diseño desde el principio.
 * **Documentación**: Proporciona una guía visual del proyecto.
 * **Revisión**: Facilita la retroalimentación de otros.
