@@ -7,7 +7,7 @@ Git es una herramienta para controlar versiones de código. Permite ver qué cam
 
 
 ## *¿Para qué sirve Git?*
-
+### Git sirve para lo siguiente:
 * **Registrar cambios**: Guarda todas las modificaciones en el código.
 * **Colaborar**: Permite a varios desarrolladores trabajar juntos.
 * **Gestionar versiones**: Regresa a versiones anteriores si es necesario.
